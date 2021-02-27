@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC_to_Arduino", "PC_to_Arduino\PC_to_Arduino.csproj", "{EAC53BBF-2326-4878-A474-1B788B0ED08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC53BBF-2326-4878-A474-1B788B0ED08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC53BBF-2326-4878-A474-1B788B0ED08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC53BBF-2326-4878-A474-1B788B0ED08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC53BBF-2326-4878-A474-1B788B0ED08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

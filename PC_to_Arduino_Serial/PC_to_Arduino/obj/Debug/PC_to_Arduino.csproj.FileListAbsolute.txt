@@ -1,0 +1,15 @@
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.exe
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.pdb
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.exe
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.pdb
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.MainForm.resources
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csproj.GenerateResource.Cache
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.exe
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.pdb
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csprojAssemblyReference.cache
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.MainForm.resources
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csproj.GenerateResource.cache
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csproj.CoreCompileInputs.cache
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.exe
+D:\DERS NOTLARI\3.1\Intelligent Robotics\Final project\PC_to_Arduino_Serial\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.pdb
